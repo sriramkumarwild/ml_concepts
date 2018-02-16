@@ -15,7 +15,7 @@
 | Linear Regression      | The relationship between input and output is linear.
 | Decision Trees | Smaller decision trees have higher generalization accuracy than larger trees .
 | Naive Bayes classifier | Assumes the features are independent of each other.
-| cross-validation | Minimum cross-validation error: when trying to choose among hypotheses, select the hypothesis with the lowest cross-validation error. Although cross-validation may seem to be free of bias, the "no free lunch" theorems show that cross-validation must be biased.
+| cross-validation | Choose the hypothesis/model that has the least cross-validation error.
 | Support Vector Machines | Assumes that the classes can be linearly separated.
 | Minimum description length | The best hypothesis is one that can best compress the given data.
 | Feature selection | Assumes only some features are important than others.
