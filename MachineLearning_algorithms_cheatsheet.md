@@ -2,7 +2,7 @@
 
 | Algorithm        | Advantages           | Disadvantages  |
 | ------------- |-------------| -----|
-| K-nearest neighbors | <ul><li>Simple and effective.</li><li>No training involved</li><li>Good baseline.</li></ul>      |    <ul><li>Computationally slow for large datasets.</li><li>Sensitive to distance metric.</li></ul>  |
+| K-nearest neighbors | <ul><li>Simple and effective.</li><li>No training involved.</li><li>Good baseline.</li></ul>      |    <ul><li>Computationally slow for large datasets.</li><li>Sensitive to distance metric.</li></ul>  |
 | Linear Regression      | <ul><li>Fast to train.</li><li>Easy to interpret model.</li></ul> | <ul><li>Does not exploit non linear relationship in data.</li></ul> |
 | Decision trees     | <ul><li>Fast to train.</li></ul>      |   <ul><li>Complex to interpret for large datasets.</li></ul>  |
 | Support Vector Machines | <ul><li>Ability to model complex relationships in data.</li><li>Robust to outliers.</li></ul>      |    <ul><li>Large memory required for big datasets</li><li>Performance depends on kernel functions and its hyperparameters.</li></ul>  |
