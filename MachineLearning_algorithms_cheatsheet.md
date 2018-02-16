@@ -15,8 +15,8 @@
 | Linear Regression      | The relationship between input and output is linear.
 | Decision Trees | Smaller decision trees have higher generalization accuracy than larger trees .
 | Naive Bayes classifier | Assumes the features are independent of each other.
-| cross-validation | Choose the hypothesis/model that has the least cross-validation error.
+| Cross-Validation | Choose the hypothesis/model that has the least cross-validation error.
 | Support Vector Machines | Assumes that the classes can be linearly separated.
-| Minimum description length | The best hypothesis is one that can best compress the given data.
-| Feature selection | Assumes only some features are important than others.
+| Minimum Description Length | The best hypothesis is one that can best compress the given data.
+| Feature Selection | Assumes only some features are important than others.
 | K-nearest neighbors | Assumes that an unknown samples is similar to a known sample in its neighbourhood.
